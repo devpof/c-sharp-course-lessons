@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07Lesson09ASP.NETCoreRazorPagesMiniProject", "Module07Lesson09ASP.NETCoreRazorPagesMiniProject\Module07Lesson09ASP.NETCoreRazorPagesMiniProject.csproj", "{55B0BA4B-49DD-4B71-BD40-D799296D9C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B0BA4B-49DD-4B71-BD40-D799296D9C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B0BA4B-49DD-4B71-BD40-D799296D9C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B0BA4B-49DD-4B71-BD40-D799296D9C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B0BA4B-49DD-4B71-BD40-D799296D9C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52EF6659-E8DE-44E6-96A9-00D607ACC9AB}
+	EndGlobalSection
+EndGlobal

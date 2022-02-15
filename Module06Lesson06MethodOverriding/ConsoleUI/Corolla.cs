@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace ConsoleUI
+{
+    public class Corolla : Car
+    {
+        public override void SetClock()
+        {
+            Console.WriteLine("Fiddle with the Corolla clock");
+        }
+    }
+}

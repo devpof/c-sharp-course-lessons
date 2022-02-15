@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07Lesson06WPF", "Module07Lesson06WPF\Module07Lesson06WPF.csproj", "{E9CB6CE6-A7C8-4BEF-A969-341F0AC95989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module06Lesson06WPFWithNetFramework", "Module06Lesson06WPFWithNetFramework\Module06Lesson06WPFWithNetFramework.csproj", "{362E4B3D-752E-4C01-AF31-8F4EBF1EFC21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CB6CE6-A7C8-4BEF-A969-341F0AC95989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CB6CE6-A7C8-4BEF-A969-341F0AC95989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CB6CE6-A7C8-4BEF-A969-341F0AC95989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CB6CE6-A7C8-4BEF-A969-341F0AC95989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362E4B3D-752E-4C01-AF31-8F4EBF1EFC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362E4B3D-752E-4C01-AF31-8F4EBF1EFC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362E4B3D-752E-4C01-AF31-8F4EBF1EFC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362E4B3D-752E-4C01-AF31-8F4EBF1EFC21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61155433-E901-4567-B8B1-F2955089AEA6}
+	EndGlobalSection
+EndGlobal
